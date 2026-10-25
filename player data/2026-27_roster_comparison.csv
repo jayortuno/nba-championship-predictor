@@ -1,0 +1,614 @@
+Player,NBA_Player_ID,Team,Clean_Name,Final_Team,BPM,VORP,MP,Status
+Keshon Gilbert,1642933,ATL,keshon gilbert,ATL,-4.6,0.0,74.0,Stayed
+Kobe Johnson,1642937,ATL,kobe johnson,,,,,New Player
+Cameron Corhen,1643723,ATL,cameron corhen,,,,,New Player
+RayJ Dennis,1642484,ATL,rayj dennis,ATL,-6.0,-0.2,206.0,Stayed
+Luguentz Dort,1629652,ATL,luguentz dort,OKC,-2.0,0.0,1849.0,Changed Teams
+Jalen Johnson,1630552,ATL,jalen johnson,ATL,4.2,4.0,2532.0,Stayed
+Aaron Wiggins,1630598,ATL,aaron wiggins,OKC,-0.9,0.4,1414.0,Changed Teams
+CJ McCollum,203468,ATL,cj mccollum,ATL,-0.3,1.0,2264.0,Stayed
+Kingston Flemings,1643412,ATL,kingston flemings,,,,,New Player
+Dyson Daniels,1630700,ATL,dyson daniels,ATL,1.3,2.1,2520.0,Stayed
+Nickeil Alexander-Walker,1629638,ATL,nickeil alexander-walker,ATL,1.2,2.1,2603.0,Stayed
+Dorian Finney-Smith,1627827,ATL,dorian finney-smith,HOU,-4.3,-0.4,620.0,Changed Teams
+Henri Veesaar,1643539,ATL,henri veesaar,,,,,New Player
+Asa Newell,1642854,ATL,asa newell,ATL,-1.5,0.1,500.0,Stayed
+Onyeka Okongwu,1630168,ATL,onyeka okongwu,ATL,0.7,1.6,2297.0,Stayed
+Mouhamed Gueye,1631243,ATL,mouhamed gueye,ATL,-1.3,0.2,1179.0,Stayed
+Zuby Ejiofor,1643544,ATL,zuby ejiofor,,,,,New Player
+Jalen Wilson,1630592,ATL,jalen wilson,BRK,-5.6,-0.8,859.0,Changed Teams
+Corey Kispert,1630557,ATL,corey kispert,ATL,-1.9,0.0,1080.0,Stayed
+Jock Landale,1629111,ATL,jock landale,ATL,-0.1,0.7,1506.0,Stayed
+Milos Uzan,1642870,BOS,milos uzan,,,,,New Player
+Hayden Gray,1643060,BOS,hayden gray,UTA,-5.3,0.0,25.0,Changed Teams
+Tucker DeVries,1643620,BOS,tucker devries,,,,,New Player
+Jayson Tatum,1628369,BOS,jayson tatum,BOS,4.8,0.9,522.0,Stayed
+Mitchell Robinson,1629011,BOS,mitchell robinson,NYK,3.5,1.6,1175.0,Changed Teams
+Derrick White,1628401,BOS,derrick white,BOS,3.2,3.5,2625.0,Stayed
+Payton Pritchard,1630202,BOS,payton pritchard,BOS,2.3,2.8,2556.0,Stayed
+Chris Cenac Jr.,1643416,BOS,chris cenac jr.,,,,,New Player
+Paul George,202331,BOS,paul george,PHI,1.7,1.1,1135.0,Changed Teams
+Ron Harper Jr.,1631199,BOS,ron harper jr.,BOS,1.1,0.3,318.0,Stayed
+Dillon Mitchell,1641759,BOS,dillon mitchell,,,,,New Player
+Devin Carter,1642269,BOS,devin carter,SAC,-2.6,-0.1,700.0,Changed Teams
+Jordan Walsh,1641775,BOS,jordan walsh,BOS,0.2,0.7,1212.0,Stayed
+Hugo González,1642864,BOS,hugo gonzalez,BOS,-1.5,0.1,1084.0,Stayed
+Sam Hauser,1630573,BOS,sam hauser,BOS,0.6,1.3,1934.0,Stayed
+Gabe McGlothan,1642440,BOS,gabe mcglothan,,,,,New Player
+Mike Conley,201144,BOS,mike conley,MIN,-1.3,0.2,991.0,Changed Teams
+Luka Garza,1630568,BOS,luka garza,BOS,2.4,1.2,1118.0,Stayed
+Baylor Scheierman,1631248,BOS,baylor scheierman,BOS,0.6,0.9,1429.0,Stayed
+Amari Williams,1642873,BOS,amari williams,BOS,-2.1,0.0,146.0,Stayed
+Neemias Queta,1629674,BOS,neemias queta,BOS,2.8,2.4,1926.0,Stayed
+Jaxson Robinson,1642283,CLE,jaxson robinson,,,,,New Player
+Noam Yaacov,1643037,CLE,noam yaacov,,,,,New Player
+Zack Austin,1643113,CLE,zack austin,,,,,New Player
+Rashaun Agee,1643772,CLE,rashaun agee,,,,,New Player
+James Harden,201935,CLE,james harden,CLE,3.9,3.6,2438.0,Stayed
+Thomas Bryant,1628418,CLE,thomas bryant,CLE,0.1,0.4,732.0,Stayed
+Evan Mobley,1630596,CLE,evan mobley,CLE,3.0,2.6,2074.0,Stayed
+Sam Merrill,1630241,CLE,sam merrill,CLE,0.1,0.7,1377.0,Stayed
+Peyton Watson,1631212,CLE,peyton watson,DEN,-1.2,0.3,1598.0,Changed Teams
+Craig Porter Jr.,1641854,CLE,craig porter jr.,CLE,2.0,1.2,1148.0,Stayed
+Riley Minix,1642434,CLE,riley minix,CLE,1.8,0.1,58.0,Stayed
+Meleek Thomas,1643509,CLE,meleek thomas,,,,,New Player
+Khalifa Diop,1631215,CLE,khalifa diop,,,,,New Player
+Jaylon Tyson,1642281,CLE,jaylon tyson,CLE,0.1,0.9,1777.0,Stayed
+Tristan Enaruna,1642400,CLE,tristan enaruna,CLE,-1.0,0.0,85.0,Stayed
+Tyrese Proctor,1642878,CLE,tyrese proctor,CLE,-2.8,-0.1,545.0,Stayed
+Jarrett Allen,1628386,CLE,jarrett allen,CLE,2.6,1.8,1519.0,Stayed
+Mario Hezonja,1626209,CLE,mario hezonja,,,,,New Player
+Nae'Qwan Tomlin,1641772,CLE,nae'qwan tomlin,CLE,-2.1,0.0,1004.0,Stayed
+Donovan Mitchell,1628378,CLE,donovan mitchell,CLE,5.1,4.2,2342.0,Stayed
+"Ernest Udeh, Jr.",1643640,CLE,"ernest udeh, jr.",,,,,New Player
+Jalon Moore,1642922,NOP,jalon moore,,,,,New Player
+Jeremiah Fears,1642847,NOP,jeremiah fears,NOP,-2.7,-0.4,2112.0,Stayed
+Zion Williamson,1629627,NOP,zion williamson,NOP,2.9,2.3,1841.0,Stayed
+Herbert Jones,1630529,NOP,herbert jones,NOP,-3.1,-0.5,1588.0,Stayed
+Jordan Poole,1629673,NOP,jordan poole,NOP,-3.5,-0.4,933.0,Stayed
+Kobe Bufkin,1641723,NOP,kobe bufkin,LAL,-9.4,-0.2,119.0,Changed Teams
+Dejounte Murray,1627749,NOP,dejounte murray,NOP,1.4,0.3,389.0,Stayed
+DeAndre Jordan,201599,NOP,deandre jordan,NOP,-0.2,0.1,199.0,Stayed
+Malik Dia,1643738,NOP,malik dia,,,,,New Player
+Trendon Watford,1630570,NOP,trendon watford,PHI,-1.9,0.0,864.0,Changed Teams
+Jaron Pierre Jr.,1643555,NOP,jaron pierre jr.,,,,,New Player
+Bryce McGowens,1631121,NOP,bryce mcgowens,NOP,-2.9,-0.2,880.0,Stayed
+Julian Reese,1642882,NOP,julian reese,WAS,-5.1,-0.3,402.0,Changed Teams
+AJ Johnson,1642358,NOP,aj johnson,DAL,-8.9,-0.8,454.0,Changed Teams
+Karlo Matković,1631255,NOP,karlo matkovic,NOP,0.7,0.6,912.0,Stayed
+Yves Missi,1642274,NOP,yves missi,NOP,-1.7,0.1,1297.0,Stayed
+Derik Queen,1642852,NOP,derik queen,NOP,-0.8,0.6,2023.0,Stayed
+Bennedict Mathurin,1631097,NOP,bennedict mathurin,LAC,-2.5,-0.2,1620.0,Changed Teams
+Trey Murphy III,1630530,NOP,trey murphy iii,NOP,2.4,2.6,2341.0,Stayed
+Saddiq Bey,1630180,NOP,saddiq bey,NOP,0.5,1.4,2246.0,Stayed
+Tobe Awaka,1643591,CHI,tobe awaka,,,,,New Player
+Jaylin Sellers,1643637,CHI,jaylin sellers,,,,,New Player
+Noa Essengue,1642855,CHI,noa essengue,CHI,-23.7,0.0,6.0,Stayed
+Josh Giddey,1630581,CHI,josh giddey,CHI,2.7,2.0,1731.0,Stayed
+Dailyn Swain,1643517,CHI,dailyn swain,,,,,New Player
+Orlando Robinson,1631115,CHI,orlando robinson,ORL,1.4,0.0,25.0,Changed Teams
+Caleb Wilson,1643410,CHI,caleb wilson,,,,,New Player
+Buddy Hield,1627741,CHI,buddy hield,ATL,-1.0,0.2,819.0,Changed Teams
+Nic Claxton,1629651,CHI,nic claxton,BRK,0.9,1.4,1920.0,Changed Teams
+Drew Peterson,1641809,CHI,drew peterson,CHO,-9.8,-0.1,64.0,Changed Teams
+Leonard Miller,1631159,CHI,leonard miller,CHI,-1.3,0.1,719.0,Stayed
+Brandon Boston,1630527,CHI,brandon boston,,,,,New Player
+Zach Collins,1628380,CHI,zach collins,CHI,0.2,0.1,184.0,Stayed
+Matas Buzelis,1641824,CHI,matas buzelis,CHI,-1.0,0.5,2248.0,Stayed
+Jordan Hawkins,1641722,CHI,jordan hawkins,NOP,-6.2,-0.7,692.0,Changed Teams
+Jalen Bridges,1641779,CHI,jalen bridges,,,,,New Player
+Norman Powell,1626181,CHI,norman powell,MIA,1.6,1.5,1717.0,Changed Teams
+Jalen Smith,1630188,CHI,jalen smith,CHI,-0.7,0.4,1095.0,Stayed
+Tre Jones,1630200,CHI,tre jones,CHI,1.3,1.5,1752.0,Stayed
+Isaac Okoro,1630171,CHI,isaac okoro,CHI,-3.8,-0.8,1695.0,Stayed
+Patrick Williams,1630172,CHI,patrick williams,CHI,-4.5,-0.9,1474.0,Stayed
+Tarik Biberovic,1641844,DAL,tarik biberovic,,,,,New Player
+Jorge Diaz-Graham,1643679,DAL,jorge diaz-graham,,,,,New Player
+Max Christie,1631108,DAL,max christie,DAL,-1.5,0.3,2244.0,Stayed
+John Poulakidas,1642967,DAL,john poulakidas,DAL,-2.2,0.0,253.0,Stayed
+Dereck Lively II,1641726,DAL,dereck lively ii,DAL,0.6,0.1,115.0,Stayed
+Naji Marshall,1630230,DAL,naji marshall,DAL,-0.6,0.8,2184.0,Stayed
+Dwight Powell,203939,DAL,dwight powell,DAL,-1.4,0.1,904.0,Stayed
+Marcus Sasser,1631204,DAL,marcus sasser,DET,-1.7,0.0,457.0,Changed Teams
+Jett Howard,1641724,DAL,jett howard,ORL,-1.8,0.0,695.0,Changed Teams
+Zaccharie Risacher,1642258,DAL,zaccharie risacher,ATL,-2.5,-0.2,1503.0,Changed Teams
+Kyrie Irving,202681,DAL,kyrie irving,,,,,New Player
+Morez Johnson Jr.,1643516,DAL,morez johnson jr.,,,,,New Player
+Caleb Martin,1628997,DAL,caleb martin,DAL,-2.2,0.0,856.0,Stayed
+Daniel Gafford,1629655,DAL,daniel gafford,DAL,0.7,0.8,1195.0,Stayed
+P.J. Washington,1629023,DAL,p.j. washington,DAL,-1.6,0.2,1736.0,Stayed
+Moussa Cisse,1630619,DAL,moussa cisse,DAL,-2.9,-0.1,530.0,Stayed
+Seth Lundy,1641754,DAL,seth lundy,,,,,New Player
+Cooper Flagg,1642843,DAL,cooper flagg,DAL,1.4,2.0,2344.0,Stayed
+Tobi Lawal,1643588,DAL,tobi lawal,,,,,New Player
+Santi Aldama,1630583,DAL,santi aldama,MEM,1.7,1.1,1198.0,Changed Teams
+Sergio de Larrea,1643547,DAL,sergio de larrea,,,,,New Player
+Coleman Hawkins,1641746,DEN,coleman hawkins,,,,,New Player
+Dane Goodwin,1641863,DEN,dane goodwin,,,,,New Player
+Christian Braun,1631128,DEN,christian braun,DEN,-1.2,0.3,1399.0,Stayed
+Cam Whitmore,1641715,DEN,cam whitmore,WAS,-3.3,-0.1,354.0,Changed Teams
+Julian Strawther,1631124,DEN,julian strawther,DEN,-2.3,-0.1,861.0,Stayed
+Marvin Bagley III,1628963,DEN,marvin bagley iii,DAL,0.8,0.8,1201.0,Changed Teams
+Tyus Jones,1626145,DEN,tyus jones,DEN,-2.4,-0.1,979.0,Stayed
+Trevon Brazile,1642350,DEN,trevon brazile,,,,,New Player
+Ryan Nembhard,1642948,DEN,ryan nembhard,DAL,-4.1,-0.6,1171.0,Changed Teams
+DeMar DeRozan,201942,DEN,demar derozan,SAC,-0.1,1.1,2406.0,Changed Teams
+Alpha Diallo,1643813,DEN,alpha diallo,,,,,New Player
+Bryce Hopkins,1643624,DEN,bryce hopkins,,,,,New Player
+DaRon Holmes II,1641747,DEN,daron holmes ii,DEN,-0.5,0.1,210.0,Stayed
+Emanuel Miller,1641801,DEN,emanuel miller,CHI,2.5,0.0,33.0,Changed Teams
+Nikola Jokić,203999,DEN,nikola jokic,DEN,14.2,9.2,2265.0,Stayed
+Spencer Jones,1642461,DEN,spencer jones,DEN,-2.4,-0.1,1417.0,Stayed
+Zeke Nnaji,1630192,DEN,zeke nnaji,DEN,-3.5,-0.3,626.0,Stayed
+Cameron Johnson,1629661,DEN,cameron johnson,DEN,-0.6,0.6,1647.0,Stayed
+Jamal Murray,1627750,DEN,jamal murray,DEN,4.1,4.1,2652.0,Stayed
+Aaron Gordon,203932,DEN,aaron gordon,DEN,1.7,0.9,1005.0,Stayed
+Tyler Burton,1631174,GSW,tyler burton,MEM,-5.3,-0.3,307.0,Changed Teams
+Gary Payton II,1627780,GSW,gary payton ii,GSW,1.9,1.1,1142.0,Stayed
+Yaxel Lendeborg,1642865,GSW,yaxel lendeborg,,,,,New Player
+Brandin Podziemski,1641764,GSW,brandin podziemski,GSW,0.2,1.3,2333.0,Stayed
+Will Richard,1642954,GSW,will richard,GSW,-1.7,0.1,1377.0,Stayed
+Moses Moody,1630541,GSW,moses moody,GSW,-0.1,0.7,1540.0,Stayed
+Kristaps Porziņģis,204001,GSW,kristaps porzingis,GSW,1.9,0.8,769.0,Stayed
+De'Anthony Melton,1629001,GSW,de'anthony melton,GSW,-2.5,-0.1,1125.0,Stayed
+Jimmy Butler III,202710,GSW,jimmy butler iii,GSW,5.5,2.3,1182.0,Stayed
+Brandon Williams,1630314,GSW,brandon williams,DAL,0.4,0.9,1463.0,Changed Teams
+Gui Santos,1630611,GSW,gui santos,GSW,-0.6,0.5,1395.0,Stayed
+LJ Cryer,1643018,GSW,lj cryer,GSW,-4.7,-0.2,292.0,Stayed
+Al Horford,201143,GSW,al horford,GSW,1.6,0.9,969.0,Stayed
+Dalen Terry,1631207,GSW,dalen terry,PHI,-1.7,0.0,551.0,Changed Teams
+Alex Toohey,1642893,GSW,alex toohey,,,,,New Player
+Draymond Green,203110,GSW,draymond green,GSW,-1.4,0.3,1869.0,Stayed
+Charles Bassey,1629646,GSW,charles bassey,GSW,1.9,0.2,153.0,Stayed
+Stephen Curry,201939,GSW,stephen curry,GSW,5.4,2.5,1329.0,Stayed
+Georges Niang,1627777,GSW,georges niang,,,,,New Player
+Malevy Leons,1642502,GSW,malevy leons,GSW,-2.8,-0.1,276.0,Stayed
+Graham Ike,1643633,GSW,graham ike,,,,,New Player
+Sean Pedulla,1642951,HOU,sean pedulla,LAC,-11.8,-0.1,31.0,Changed Teams
+Quadir Copeland,1643595,HOU,quadir copeland,,,,,New Player
+Amen Thompson,1641708,HOU,amen thompson,HOU,2.6,3.4,2953.0,Stayed
+Bruce Thornton,1643570,HOU,bruce thornton,,,,,New Player
+Julian Phillips,1641763,HOU,julian phillips,MIN,-3.6,-0.2,428.0,Changed Teams
+Fred VanVleet,1627832,HOU,fred vanvleet,,,,,New Player
+Kevin Durant,201142,HOU,kevin durant,HOU,4.5,4.7,2840.0,Stayed
+Jae'Sean Tate,1630256,HOU,jae'sean tate,HOU,-3.9,-0.2,405.0,Stayed
+Jabari Smith Jr.,1631095,HOU,jabari smith jr.,HOU,-0.7,0.9,2705.0,Stayed
+Steven Adams,203500,HOU,steven adams,HOU,-0.5,0.3,730.0,Stayed
+Reed Sheppard,1642263,HOU,reed sheppard,HOU,2.7,2.5,2147.0,Stayed
+Tari Eason,1631106,HOU,tari eason,HOU,-1.6,0.2,1549.0,Stayed
+Isaiah Crawford,1642384,HOU,isaiah crawford,HOU,-3.0,0.0,92.0,Stayed
+Alperen Sengun,1630578,HOU,alperen sengun,HOU,4.2,3.7,2398.0,Stayed
+Clint Capela,203991,HOU,clint capela,HOU,0.4,0.6,926.0,Stayed
+Bogdan Bogdanović,203992,HOU,bogdan bogdanovic,LAC,-3.1,-0.1,452.0,Changed Teams
+Oscar Tshiebwe,1631131,HOU,oscar tshiebwe,UTA,-1.8,0.0,448.0,Changed Teams
+Marcus Smart,203935,HOU,marcus smart,LAL,-2.2,-0.1,1769.0,Changed Teams
+Fletcher Loyer,1643630,LAC,fletcher loyer,,,,,New Player
+Keaton Wagler,1643413,LAC,keaton wagler,,,,,New Player
+Blake Wesley,1631104,LAC,blake wesley,POR,-3.6,-0.1,361.0,Changed Teams
+Bradley Beal,203078,LAC,bradley beal,LAC,-10.6,-0.3,121.0,Stayed
+Kobe Sanders,1642920,LAC,kobe sanders,LAC,-2.9,-0.3,1351.0,Stayed
+Derrick Jones Jr.,1627884,LAC,derrick jones jr.,LAC,-0.7,0.5,1350.0,Stayed
+Brandon Ingram,1627742,LAC,brandon ingram,TOR,0.5,1.7,2604.0,Changed Teams
+Kris Dunn,1627739,LAC,kris dunn,LAC,-0.8,0.6,2230.0,Stayed
+Gradey Dick,1641711,LAC,gradey dick,TOR,-3.6,-0.4,1067.0,Changed Teams
+Darius Garland,1629636,LAC,darius garland,LAC,-0.2,0.6,1344.0,Stayed
+Brook Lopez,201572,LAC,brook lopez,LAC,-0.9,0.5,1635.0,Stayed
+Nick Martinelli,1643568,LAC,nick martinelli,,,,,New Player
+Yanic Konan Niederhäuser,1642949,LAC,yanic konan niederhauser,LAC,-2.2,0.0,424.0,Stayed
+Baba Miller,1642394,LAC,baba miller,,,,,New Player
+Jahmyl Telfort,1643141,LAC,jahmyl telfort,LAC,-13.8,-0.1,32.0,Stayed
+Jordan Miller,1641757,LAC,jordan miller,LAC,0.2,0.8,1325.0,Stayed
+Isaiah Jackson,1630543,LAC,isaiah jackson,LAC,-1.2,0.2,908.0,Stayed
+Cam Christie,1642353,LAC,cam christie,LAC,-4.6,-0.3,480.0,Stayed
+Jalen Pickett,1629618,LAC,jalen pickett,DEN,-2.3,-0.1,807.0,Changed Teams
+Rui Hachimura,1629060,LAC,rui hachimura,LAL,-2.2,-0.1,1927.0,Changed Teams
+Max Strus,1629622,LAC,max strus,CLE,-1.2,0.1,288.0,Changed Teams
+Arthur Kaluma,1641751,LAL,arthur kaluma,,,,,New Player
+Rafael Castro,1643572,LAL,rafael castro,,,,,New Player
+Adou Thiero,1642876,LAL,adou thiero,LAL,-4.4,-0.1,149.0,Stayed
+Jarred Vanderbilt,1629020,LAL,jarred vanderbilt,LAL,-1.5,0.1,1128.0,Stayed
+Matisse Thybulle,1629680,LAL,matisse thybulle,POR,4.4,0.8,480.0,Changed Teams
+Dalton Knecht,1642261,LAL,dalton knecht,LAL,-3.6,-0.2,553.0,Stayed
+Quentin Grimes,1629656,LAL,quentin grimes,PHI,-1.6,0.2,2206.0,Changed Teams
+Jaden Hardy,1630702,LAL,jaden hardy,WAS,-4.8,-0.6,898.0,Changed Teams
+Bronny James,1642355,LAL,bronny james,LAL,-4.3,-0.2,375.0,Stayed
+Collin Sexton,1629012,LAL,collin sexton,CHI,0.6,1.1,1614.0,Changed Teams
+Ziaire Williams,1630533,LAL,ziaire williams,BRK,-1.7,0.1,1281.0,Changed Teams
+Jake LaRavia,1631222,LAL,jake laravia,LAL,-1.2,0.4,2061.0,Stayed
+Cole Swider,1631306,LAL,cole swider,,,,,New Player
+Walker Kessler,1631117,LAL,walker kessler,UTA,3.3,0.2,154.0,Changed Teams
+Austin Reaves,1630559,LAL,austin reaves,LAL,2.8,2.1,1762.0,Stayed
+Chris Mañon,1643024,LAL,chris manon,LAL,0.1,0.0,46.0,Stayed
+AK Okereke,1643758,LAL,ak okereke,,,,,New Player
+Cameron Carr,1643418,LAL,cameron carr,,,,,New Player
+Sandro Mamukelashvili,1630572,LAL,sandro mamukelashvili,TOR,2.8,2.1,1751.0,Changed Teams
+Kevon Looney,1626172,LAL,kevon looney,NOP,-1.8,0.0,308.0,Changed Teams
+Luka Dončić,1629029,LAL,luka doncic,LAL,9.3,6.6,2289.0,Stayed
+Gabe Madsen,1643019,MIA,gabe madsen,,,,,New Player
+Simone Fontecchio,1631323,MIA,simone fontecchio,MIA,0.5,0.7,1173.0,Stayed
+Davion Mitchell,1630558,MIA,davion mitchell,MIA,-0.9,0.6,2000.0,Stayed
+Ryan Conwell,1643553,MIA,ryan conwell,,,,,New Player
+Nikola Jović,1631107,MIA,nikola jovic,MIA,-3.5,-0.3,808.0,Stayed
+Giannis Antetokounmpo,203507,MIA,giannis antetokounmpo,MIL,9.5,3.0,1039.0,Changed Teams
+Nick Richards,1630208,MIA,nick richards,CHI,-6.1,-0.7,701.0,Changed Teams
+Pelle Larsson,1641796,MIA,pelle larsson,MIA,-1.2,0.4,1849.0,Stayed
+Tim Hardaway Jr.,203501,MIA,tim hardaway jr.,DEN,-0.7,0.7,2127.0,Changed Teams
+Klay Thompson,202691,MIA,klay thompson,DAL,-1.4,0.2,1497.0,Changed Teams
+Dru Smith,1630696,MIA,dru smith,MIA,2.2,1.2,1141.0,Stayed
+Bam Adebayo,1628389,MIA,bam adebayo,MIA,2.0,2.4,2365.0,Stayed
+Myron Gardner,1642066,MIA,myron gardner,MIA,0.9,0.3,411.0,Stayed
+Keshad Johnson,1642352,MIA,keshad johnson,MIA,-1.3,0.1,280.0,Stayed
+Bez Mbeng,1643016,MIA,bez mbeng,UTA,-4.9,-0.4,492.0,Changed Teams
+Ian Schieffelin,1643867,MIA,ian schieffelin,,,,,New Player
+Andrew Wiggins,203952,MIA,andrew wiggins,MIA,1.2,1.7,2063.0,Stayed
+Tre Donaldson,1643621,MIA,tre donaldson,,,,,New Player
+Kylor Kelley,1630283,MIA,kylor kelley,,,,,New Player
+Vladislav Goldin,1642884,MIA,vladislav goldin,MIA,-0.5,0.0,24.0,Stayed
+Bobby Portis Jr.,1626171,MIA,bobby portis jr.,MIL,0.0,0.8,1619.0,Changed Teams
+Jericho Sims,1630579,MIL,jericho sims,MIL,-3.1,-0.4,1318.0,Stayed
+Brayden Burries,1643415,MIL,brayden burries,,,,,New Player
+Myles Turner,1626167,MIL,myles turner,MIL,-0.9,0.5,1912.0,Stayed
+Gary Trent Jr.,1629018,MIL,gary trent jr.,MIL,-5.4,-1.2,1377.0,Stayed
+Kevin Porter Jr.,1629645,MIL,kevin porter jr.,MIL,2.1,1.3,1261.0,Stayed
+Kel'el Ware,1642276,MIL,kel'el ware,MIA,2.1,1.8,1704.0,Changed Teams
+Tyler Herro,1629639,MIL,tyler herro,MIA,2.0,1.1,1033.0,Changed Teams
+Caris LeVert,1627747,MIL,caris levert,DET,-0.4,0.5,1154.0,Changed Teams
+Ryan Rollins,1631157,MIL,ryan rollins,MIL,0.2,1.3,2376.0,Stayed
+Nate Ament,1643417,MIL,nate ament,,,,,New Player
+Kyle Kuzma,1628398,MIL,kyle kuzma,MIL,-2.3,-0.1,1806.0,Stayed
+Kam Jones,1642880,MIL,kam jones,IND,-6.2,-0.6,616.0,Changed Teams
+AJ Green,1631260,MIL,aj green,MIL,-3.3,-0.8,2270.0,Stayed
+Ousmane Dieng,1631172,MIL,ousmane dieng,MIL,-3.8,-0.5,1099.0,Stayed
+Johni Broome,1641780,MIL,johni broome,PHI,-16.2,-0.2,55.0,Changed Teams
+Bogoljub Marković,1642881,MIL,bogoljub markovic,,,,,New Player
+Jaime Jaquez Jr.,1631170,MIL,jaime jaquez jr.,MIA,0.1,1.1,2121.0,Changed Teams
+Kasparas Jakučionis,1642857,MIL,kasparas jakucionis,MIA,-0.4,0.4,945.0,Changed Teams
+Cormac Ryan,1642504,MIL,cormac ryan,MIL,-0.8,0.1,271.0,Stayed
+Pete Nance,1631250,MIL,pete nance,MIL,-2.3,-0.1,737.0,Stayed
+Jake Stephens,1641868,MIL,jake stephens,,,,,New Player
+Norchad Omier,1641807,MIN,norchad omier,LAC,6.0,0.0,24.0,Changed Teams
+Donte DiVincenzo,1628978,MIN,donte divincenzo,MIN,0.8,1.7,2494.0,Stayed
+LaMelo Ball,1630163,MIN,lamelo ball,CHO,4.7,3.4,2017.0,Changed Teams
+Jaden McDaniels,1630183,MIN,jaden mcdaniels,MIN,-0.3,1.0,2316.0,Stayed
+Terrence Shannon Jr,1630545,MIN,terrence shannon jr,MIN,-3.6,-0.2,538.0,Stayed
+Anthony Edwards,1630162,MIN,anthony edwards,MIN,4.5,3.5,2137.0,Stayed
+Jaylen Clark,1641740,MIN,jaylen clark,MIN,-2.4,-0.1,888.0,Stayed
+Bones Hyland,1630538,MIN,bones hyland,MIN,1.7,1.1,1177.0,Stayed
+Cody Williams,1642262,MIN,cody williams,UTA,-5.5,-1.5,1631.0,Changed Teams
+Antonio Reeves,1641810,MIN,antonio reeves,CHO,1.3,0.1,68.0,Changed Teams
+Ayo Dosunmu,1630245,MIN,ayo dosunmu,MIN,1.0,1.4,1881.0,Stayed
+Zyon Pullin,1642389,MIN,zyon pullin,MIN,-1.1,0.0,43.0,Stayed
+Drew Timme,1631166,MIN,drew timme,LAL,-2.2,0.0,235.0,Changed Teams
+Joan Beringer,1642866,MIN,joan beringer,MIN,0.4,0.2,314.0,Stayed
+Jonathan Kuminga,1630228,MIN,jonathan kuminga,ATL,-2.0,0.0,830.0,Changed Teams
+Enrique Freeman,1642402,MIN,enrique freeman,MIN,0.0,0.0,37.0,Stayed
+Rudy Gobert,203497,MIN,rudy gobert,MIN,1.0,1.8,2380.0,Stayed
+Isaiah Evans,1642912,MIN,isaiah evans,,,,,New Player
+Trey Lyles,1626168,MIN,trey lyles,,,,,New Player
+Rocco Zikarsky,1642911,MIN,rocco zikarsky,MIN,2.4,0.0,36.0,Stayed
+KJ Martin,1630231,MIN,kj martin,,,,,New Player
+Josh Minott,1631169,BRK,josh minott,BRK,2.5,1.0,834.0,Stayed
+Mikel Brown Jr.,1643414,BRK,mikel brown jr.,,,,,New Player
+Keon Ellis,1631165,BRK,keon ellis,CLE,-0.5,0.6,1478.0,Changed Teams
+Danny Wolf,1642874,BRK,danny wolf,BRK,-2.5,-0.2,1187.0,Stayed
+Drake Powell,1642962,BRK,drake powell,BRK,-6.0,-1.3,1320.0,Stayed
+Egor Dëmin,1642856,BRK,egor demin,BRK,-1.6,0.1,1308.0,Stayed
+Joshua Jefferson,1643538,BRK,joshua jefferson,,,,,New Player
+Nolan Traore,1642849,BRK,nolan traore,BRK,-6.8,-1.5,1243.0,Stayed
+Ben Humrichous,1643750,BRK,ben humrichous,,,,,New Player
+Moritz Wagner,1629021,BRK,moritz wagner,ORL,-2.2,0.0,427.0,Changed Teams
+Terance Mann,1629611,BRK,terance mann,BRK,-3.4,-0.6,1529.0,Stayed
+Grant Nelson,1641761,BRK,grant nelson,BRK,2.2,0.0,35.0,Stayed
+Michael Porter Jr.,1629008,BRK,michael porter jr.,BRK,3.0,2.1,1689.0,Stayed
+Day'Ron Sharpe,1630549,BRK,day'ron sharpe,BRK,1.4,1.0,1160.0,Stayed
+Noah Clowney,1641730,BRK,noah clowney,BRK,-3.4,-0.6,1780.0,Stayed
+Julius Randle,203944,BRK,julius randle,MIN,1.5,2.3,2610.0,Changed Teams
+Chaney Johnson,1643052,BRK,chaney johnson,BRK,0.1,0.2,348.0,Stayed
+Tyler Bilodeau,1643548,BRK,tyler bilodeau,,,,,New Player
+Ben Saraf,1642879,BRK,ben saraf,BRK,-7.3,-1.2,916.0,Stayed
+Jaden Akins,1643022,NYK,jaden akins,,,,,New Player
+Andre Drummond,203083,NYK,andre drummond,PHI,-0.6,0.4,1231.0,Changed Teams
+Jordan Clarkson,203903,NYK,jordan clarkson,NYK,-3.3,-0.4,1279.0,Stayed
+Miles McBride,1630540,NYK,miles mcbride,NYK,1.2,0.9,1080.0,Stayed
+Josh Hart,1628404,NYK,josh hart,NYK,3.0,2.5,1994.0,Stayed
+Pacôme Dadiet,1642359,NYK,pacome dadiet,NYK,-3.3,0.0,136.0,Stayed
+Jose Alvarado,1630631,NYK,jose alvarado,NYK,-1.0,0.3,1370.0,Stayed
+OG Anunoby,1628384,NYK,og anunoby,NYK,2.0,2.3,2224.0,Stayed
+Kevin McCullar Jr.,1641755,NYK,kevin mccullar jr.,NYK,-2.8,0.0,155.0,Stayed
+James Wiseman,1630164,NYK,james wiseman,IND,-9.0,-0.1,58.0,Changed Teams
+Bruce Brown,1628971,NYK,bruce brown,DEN,-2.4,-0.2,1998.0,Changed Teams
+Jalen Brunson,1628973,NYK,jalen brunson,NYK,3.1,3.3,2590.0,Stayed
+Tony Bradley,1628396,NYK,tony bradley,ATL,-4.2,-0.3,450.0,Changed Teams
+Tyler Kolek,1642278,NYK,tyler kolek,NYK,-0.6,0.3,727.0,Stayed
+Drew Eubanks,1629234,NYK,drew eubanks,SAC,-3.7,-0.2,552.0,Changed Teams
+Mikal Bridges,1628969,NYK,mikal bridges,NYK,2.7,3.2,2692.0,Stayed
+Ochai Agbaji,1630534,NYK,ochai agbaji,BRK,-4.0,-0.5,973.0,Changed Teams
+Karl-Anthony Towns,1626157,NYK,karl-anthony towns,NYK,3.3,3.1,2322.0,Stayed
+Landry Shamet,1629013,NYK,landry shamet,NYK,-0.3,0.5,1171.0,Stayed
+Mohamed Diawara,1642885,NYK,mohamed diawara,NYK,-1.7,0.0,634.0,Stayed
+Tyler Nickel,1643589,NYK,tyler nickel,,,,,New Player
+Anthony Black,1641710,ORL,anthony black,ORL,-0.6,0.7,1910.0,Stayed
+Jonathan Isaac,1628371,ORL,jonathan isaac,ORL,-1.6,0.1,521.0,Stayed
+Jevon Carter,1628975,ORL,jevon carter,ORL,-1.1,0.2,867.0,Stayed
+Desmond Bane,1630217,ORL,desmond bane,ORL,1.4,2.3,2756.0,Stayed
+Jalen Suggs,1630591,ORL,jalen suggs,ORL,2.5,1.8,1574.0,Stayed
+Paolo Banchero,1631094,ORL,paolo banchero,ORL,1.4,2.1,2502.0,Stayed
+Jamal Cain,1631288,ORL,jamal cain,ORL,-1.4,0.1,486.0,Stayed
+Nikola Vučević,202696,ORL,nikola vucevic,BOS,1.5,1.6,1818.0,Changed Teams
+Jase Richardson,1642859,ORL,jase richardson,ORL,-2.5,-0.1,587.0,Stayed
+Malaki Branham,1631103,ORL,malaki branham,WAS,-2.2,0.0,275.0,Changed Teams
+Colin Castleton,1630658,ORL,colin castleton,ORL,-7.7,0.0,21.0,Stayed
+JD Davison,1631120,ORL,jd davison,HOU,-1.1,0.0,218.0,Changed Teams
+Franz Wagner,1630532,ORL,franz wagner,ORL,2.5,1.2,1019.0,Stayed
+Tristan da Silva,1641783,ORL,tristan da silva,ORL,-0.6,0.7,1899.0,Stayed
+Kevin Knox II,1628995,ORL,kevin knox ii,,,,,New Player
+Izaiyah Nelson,1643593,ORL,izaiyah nelson,,,,,New Player
+Alex Morales,1631457,ORL,alex morales,ORL,-16.0,-0.1,24.0,Stayed
+Wendell Carter Jr.,1628976,ORL,wendell carter jr.,ORL,-0.6,0.8,2288.0,Stayed
+Goga Bitadze,1629048,ORL,goga bitadze,ORL,2.8,1.2,972.0,Stayed
+Noah Penda,1642869,ORL,noah penda,ORL,-1.5,0.1,757.0,Stayed
+Keba Keita,1643627,IND,keba keita,,,,,New Player
+Rienk Mast,1643792,IND,rienk mast,,,,,New Player
+Tyrese Haliburton,1630169,IND,tyrese haliburton,,,,,New Player
+Obi Toppin,1630167,IND,obi toppin,IND,3.0,0.5,424.0,Stayed
+Andrew Nembhard,1629614,IND,andrew nembhard,IND,-0.8,0.6,1786.0,Stayed
+Braden Smith,1643552,IND,braden smith,,,,,New Player
+Jarace Walker,1641716,IND,jarace walker,IND,-2.4,-0.2,1953.0,Stayed
+T.J. McConnell,204456,IND,t.j. mcconnell,IND,2.5,1.1,963.0,Stayed
+Kelly Oubre Jr.,1626162,IND,kelly oubre jr.,PHI,-1.4,0.2,1574.0,Changed Teams
+Johnny Furphy,1642277,IND,johnny furphy,IND,-3.7,-0.3,643.0,Stayed
+James Johnson,201949,IND,james johnson,,,,,New Player
+Jalen Slawson,1641771,IND,jalen slawson,IND,-0.4,0.1,311.0,Stayed
+Larry Nance Jr.,1626204,IND,larry nance jr.,CLE,-3.4,-0.2,449.0,Changed Teams
+Aaron Nesmith,1630174,IND,aaron nesmith,IND,-3.4,-0.5,1335.0,Stayed
+Kobe Brown,1641738,IND,kobe brown,IND,-2.7,-0.2,963.0,Stayed
+Ben Sheppard,1641767,IND,ben sheppard,IND,-3.0,-0.4,1390.0,Stayed
+Quenton Jackson,1631245,IND,quenton jackson,IND,-1.8,0.0,897.0,Stayed
+Jay Huff,1630643,IND,jay huff,IND,0.4,1.1,1719.0,Stayed
+Ivica Zubac,1627826,IND,ivica zubac,IND,-0.3,0.6,1446.0,Stayed
+Pascal Siakam,1627783,IND,pascal siakam,IND,0.7,1.4,2057.0,Stayed
+Jameer Nelson Jr.,1642392,PHI,jameer nelson jr.,,,,,New Player
+Saint Thomas,1643148,PHI,saint thomas,,,,,New Player
+Duke Miles,1643575,PHI,duke miles,,,,,New Player
+Labaron Philon,1642889,PHI,labaron philon,,,,,New Player
+Tyrese Maxey,1630178,PHI,tyrese maxey,PHI,5.4,4.9,2661.0,Stayed
+Dillon Jones,1641794,PHI,dillon jones,NYK,-2.6,0.0,39.0,Changed Teams
+Kentavious Caldwell-Pope,203484,PHI,kentavious caldwell-pope,MEM,-2.5,-0.1,1088.0,Changed Teams
+Caleb Love,1631126,PHI,caleb love,POR,-3.1,-0.3,1013.0,Changed Teams
+Anfernee Simons,1629014,PHI,anfernee simons,CHI,-0.1,0.7,1372.0,Changed Teams
+Jaylen Brown,1627759,PHI,jaylen brown,BOS,3.3,3.3,2443.0,Changed Teams
+Justin Edwards,1642348,PHI,justin edwards,PHI,-1.3,0.2,977.0,Stayed
+Rayan Rupert,1641712,PHI,rayan rupert,MEM,-5.1,-0.8,1072.0,Changed Teams
+Joel Embiid,203954,PHI,joel embiid,PHI,4.9,2.1,1201.0,Stayed
+LeBron James,2544,PHI,lebron james,LAL,3.5,2.8,1989.0,Changed Teams
+Dominick Barlow,1631230,PHI,dominick barlow,PHI,-1.1,0.4,1689.0,Stayed
+Adem Bona,1641737,PHI,adem bona,PHI,-2.9,-0.3,1234.0,Stayed
+Jabari Walker,1631133,PHI,jabari walker,PHI,-2.7,-0.1,762.0,Stayed
+Dean Wade,1629731,PHI,dean wade,CLE,0.2,0.7,1318.0,Changed Teams
+Ariel Hukporti,1630574,PHI,ariel hukporti,NYK,-2.3,0.0,498.0,Changed Teams
+VJ Edgecombe,1642845,PHI,vj edgecombe,PHI,-0.5,1.0,2623.0,Stayed
+Tacko Fall,1629605,PHI,tacko fall,,,,,New Player
+Phillip Wheeler,1630762,PHO,phillip wheeler,,,,,New Player
+Kennedy Chandler,1631113,PHO,kennedy chandler,UTA,-5.7,-0.3,355.0,Changed Teams
+Ryan Dunn,1642346,PHO,ryan dunn,PHO,-0.9,0.4,1355.0,Stayed
+Dillon Brooks,1628415,PHO,dillon brooks,PHO,-2.3,-0.1,1702.0,Stayed
+Jalen Green,1630224,PHO,jalen green,PHO,-1.1,0.2,828.0,Stayed
+Haywood Highsmith,1629312,PHO,haywood highsmith,PHO,3.8,0.1,91.0,Stayed
+Luke Kennard,1628379,PHO,luke kennard,LAL,0.1,0.9,1681.0,Changed Teams
+Khaman Maluach,1642863,PHO,khaman maluach,PHO,-3.7,-0.2,411.0,Stayed
+Oso Ighodaro,1642345,PHO,oso ighodaro,PHO,0.1,0.9,1808.0,Stayed
+Collin Gillespie,1631221,PHO,collin gillespie,PHO,2.5,2.6,2282.0,Stayed
+Koby Brea,1642886,PHO,koby brea,PHO,0.2,0.0,84.0,Stayed
+Mark Williams,1631109,PHO,mark williams,PHO,2.0,1.4,1416.0,Stayed
+Devin Booker,1626164,PHO,devin booker,PHO,2.2,2.3,2146.0,Stayed
+Jamaree Bouyea,1631123,PHO,jamaree bouyea,PHO,-0.4,0.3,644.0,Stayed
+Koa Peat,1643520,PHO,koa peat,,,,,New Player
+Rasheer Fleming,1642853,PHO,rasheer fleming,PHO,-3.8,-0.3,673.0,Stayed
+Miles Bridges,1628970,PHO,miles bridges,CHO,1.1,1.9,2387.0,Changed Teams
+CJ Huntley,1643047,PHO,cj huntley,PHO,-4.4,0.0,40.0,Stayed
+Jordan Goodwin,1630692,PHO,jordan goodwin,PHO,1.8,1.5,1572.0,Stayed
+Duop Reath,1641871,PHO,duop reath,POR,-0.9,0.1,258.0,Changed Teams
+Pat Spencer,1630311,PHO,pat spencer,GSW,-2.3,-0.1,1229.0,Changed Teams
+Jayson Kent,1643257,POR,jayson kent,POR,4.2,0.0,22.0,Stayed
+Damian Lillard,203081,POR,damian lillard,,,,,New Player
+Scoot Henderson,1630703,POR,scoot henderson,POR,-2.2,0.0,748.0,Stayed
+Ja Morant,1629630,POR,ja morant,MEM,-1.5,0.1,569.0,Changed Teams
+Chris Youngblood,1642959,POR,chris youngblood,POR,-2.3,0.0,185.0,Stayed
+Jrue Holiday,201950,POR,jrue holiday,POR,1.9,1.6,1560.0,Stayed
+John Tonje,1642910,POR,john tonje,BOS,-5.1,0.0,42.0,Changed Teams
+Deni Avdija,1630166,POR,deni avdija,POR,4.3,3.5,2199.0,Stayed
+Micah Potter,1630695,POR,micah potter,IND,0.7,0.6,908.0,Changed Teams
+Branden Carlson,1642382,POR,branden carlson,OKC,0.8,0.4,488.0,Changed Teams
+Yang Hansen,1642905,POR,yang hansen,POR,-9.5,-0.6,300.0,Stayed
+Shaedon Sharpe,1631101,POR,shaedon sharpe,POR,-1.4,0.2,1471.0,Stayed
+Jeremy Sochan,1631110,POR,jeremy sochan,NYK,-1.2,0.1,469.0,Changed Teams
+Donovan Clingan,1642270,POR,donovan clingan,POR,3.0,2.6,2094.0,Stayed
+Vít Krejčí,1630249,POR,vit krejci,POR,-1.6,0.1,1392.0,Stayed
+Toumani Camara,1641739,POR,toumani camara,POR,-1.0,0.7,2731.0,Stayed
+Robert Williams III,1629057,POR,robert williams iii,POR,4.5,1.7,1008.0,Stayed
+Sidy Cissoko,1631321,POR,sidy cissoko,POR,-4.0,-0.7,1435.0,Stayed
+Viktor Lakhin,1642940,SAC,viktor lakhin,,,,,New Player
+Tristen Newton,1641803,SAC,tristen newton,HOU,8.4,0.0,12.0,Changed Teams
+Malik Monk,1628370,SAC,malik monk,SAC,-1.3,0.2,1364.0,Stayed
+Elfrid Payton,203901,SAC,elfrid payton,,,,,New Player
+Darius Acuff Jr.,1643411,SAC,darius acuff jr.,,,,,New Player
+Zach LaVine,203897,SAC,zach lavine,SAC,-1.5,0.2,1224.0,Stayed
+Precious Achiuwa,1630173,SAC,precious achiuwa,SAC,-1.6,0.2,1745.0,Stayed
+Nique Clifford,1642363,SAC,nique clifford,SAC,-4.9,-1.4,1882.0,Stayed
+Domantas Sabonis,1627734,SAC,domantas sabonis,SAC,0.6,0.4,564.0,Stayed
+Keegan Murray,1631099,SAC,keegan murray,SAC,-3.1,-0.2,793.0,Stayed
+Adam Flagler,1641745,SAC,adam flagler,,,,,New Player
+De'Andre Hunter,1629631,SAC,de'andre hunter,SAC,-3.9,-0.6,1176.0,Stayed
+Leaky Black,1641778,SAC,leaky black,WAS,-5.3,-0.4,433.0,Changed Teams
+Jonathan Mogbo,1642367,SAC,jonathan mogbo,TOR,-0.7,0.1,249.0,Changed Teams
+Ben Simmons,1627732,SAC,ben simmons,,,,,New Player
+Daeqwon Plowden,1631342,SAC,daeqwon plowden,SAC,-4.4,-0.5,844.0,Stayed
+Dylan Cardwell,1642928,SAC,dylan cardwell,SAC,-1.9,0.0,907.0,Stayed
+Alex Karaban,1642284,SAC,alex karaban,,,,,New Player
+Emanuel Sharp,1643567,SAC,emanuel sharp,,,,,New Player
+Maxime Raynaud,1642875,SAC,maxime raynaud,SAC,-2.4,-0.2,1964.0,Stayed
+Jon Elmore,1631399,SAS,jon elmore,,,,,New Player
+Malik Williams,1642013,SAS,malik williams,,,,,New Player
+Jordan McLaughlin,1629162,SAS,jordan mclaughlin,SAS,0.6,0.2,282.0,Stayed
+Victor Wembanyama,1641705,SAS,victor wembanyama,SAS,10.7,6.0,1866.0,Stayed
+Dylan Harper,1642844,SAS,dylan harper,SAS,1.4,1.3,1558.0,Stayed
+Keldon Johnson,1629640,SAS,keldon johnson,SAS,0.9,1.4,1911.0,Stayed
+De'Aaron Fox,1628368,SAS,de'aaron fox,SAS,2.2,2.4,2231.0,Stayed
+Taelon Peter,1643007,SAS,taelon peter,IND,-4.6,-0.3,492.0,Changed Teams
+Stephon Castle,1642264,SAS,stephon castle,SAS,1.9,2.0,2038.0,Stayed
+Luke Kornet,1628436,SAS,luke kornet,SAS,3.6,2.0,1430.0,Stayed
+Tarris Reed Jr.,1643542,SAS,tarris reed jr.,,,,,New Player
+Carter Bryant,1642868,SAS,carter bryant,SAS,-3.0,-0.2,818.0,Stayed
+Maliq Brown,1643576,SAS,maliq brown,,,,,New Player
+Ja'Kobi Gillespie,1643551,SAS,ja'kobi gillespie,,,,,New Player
+Jayden Quaintance,1643519,SAS,jayden quaintance,,,,,New Player
+Tobias Harris,202699,SAS,tobias harris,DET,1.4,1.5,1746.0,Changed Teams
+Devin Vassell,1630170,SAS,devin vassell,SAS,0.5,1.3,2044.0,Stayed
+David Jones Garcia,1642357,SAS,david jones garcia,SAS,6.4,0.1,68.0,Stayed
+Julian Champagnie,1630577,SAS,julian champagnie,SAS,1.4,1.9,2266.0,Stayed
+Harrison Barnes,203084,SAS,harrison barnes,SAS,-0.1,1.0,1986.0,Stayed
+Anthony Pritchard,1643208,OKC,anthony pritchard,,,,,New Player
+Josh Dix,1643717,OKC,josh dix,,,,,New Player
+Christoph Tilly,1643754,OKC,christoph tilly,,,,,New Player
+Andrew Holifield,1643808,OKC,andrew holifield,,,,,New Player
+Shai Gilgeous-Alexander,1628983,OKC,shai gilgeous-alexander,OKC,11.7,7.8,2259.0,Stayed
+Jared McCain,1642272,OKC,jared mccain,OKC,-2.4,-0.1,1160.0,Stayed
+Jaylin Williams,1631119,OKC,jaylin williams,OKC,2.7,1.5,1277.0,Stayed
+Chet Holmgren,1631096,OKC,chet holmgren,OKC,4.2,3.1,1997.0,Stayed
+Jalen Williams,1631114,OKC,jalen williams,OKC,2.1,1.0,936.0,Stayed
+Alex Caruso,1627936,OKC,alex caruso,OKC,1.9,1.0,1020.0,Stayed
+Thomas Sorber,1642850,OKC,thomas sorber,,,,,New Player
+Otega Oweh,1642923,OKC,otega oweh,,,,,New Player
+Bennett Stirtz,1642892,OKC,bennett stirtz,,,,,New Player
+Aday Mara,1643530,OKC,aday mara,,,,,New Player
+Zhaire Smith,1629015,OKC,zhaire smith,,,,,New Player
+Cason Wallace,1641717,OKC,cason wallace,OKC,1.2,1.7,2046.0,Stayed
+Brooks Barnhizer,1642964,OKC,brooks barnhizer,OKC,-3.1,-0.1,348.0,Stayed
+Ajay Mitchell,1642349,OKC,ajay mitchell,OKC,1.9,1.4,1473.0,Stayed
+Kenrich Williams,1629026,OKC,kenrich williams,OKC,0.2,0.5,855.0,Stayed
+Nikola Topić,1642260,OKC,nikola topic,OKC,-8.4,-0.3,160.0,Stayed
+Isaiah Hartenstein,1628392,OKC,isaiah hartenstein,OKC,4.2,1.8,1137.0,Stayed
+Tyreke Key,1642615,TOR,tyreke key,,,,,New Player
+Nate Bittle,1642927,TOR,nate bittle,,,,,New Player
+Tyson Degenhart,1643091,TOR,tyson degenhart,,,,,New Player
+Nimari Burnett,1643718,TOR,nimari burnett,,,,,New Player
+Jamal Shead,1642347,TOR,jamal shead,TOR,-2.3,-0.1,1852.0,Stayed
+Kawhi Leonard,202695,TOR,kawhi leonard,LAC,8.0,5.3,2085.0,Changed Teams
+Scottie Barnes,1630567,TOR,scottie barnes,TOR,4.2,4.2,2681.0,Stayed
+Immanuel Quickley,1630193,TOR,immanuel quickley,TOR,2.4,2.5,2231.0,Stayed
+Jaden Bradley,1643558,TOR,jaden bradley,,,,,New Player
+RJ Barrett,1629628,TOR,rj barrett,TOR,0.2,1.0,1726.0,Stayed
+Kyle Anderson,203937,TOR,kyle anderson,MIN,0.4,0.5,853.0,Changed Teams
+Ja'Kobe Walter,1642266,TOR,ja'kobe walter,TOR,-0.3,0.6,1474.0,Stayed
+Malachi Smith,1641869,TOR,malachi smith,BRK,-0.8,0.1,359.0,Changed Teams
+Jakob Poeltl,1627751,TOR,jakob poeltl,TOR,1.6,1.0,1149.0,Stayed
+Allen Graves,1643512,TOR,allen graves,,,,,New Player
+Collin Murray-Boyles,1642867,TOR,collin murray-boyles,TOR,1.0,1.0,1246.0,Stayed
+Trayce Jackson-Davis,1631218,TOR,trayce jackson-davis,TOR,-0.4,0.2,496.0,Stayed
+Jamarion Sharp,1642481,TOR,jamarion sharp,,,,,New Player
+Trey Jemison III,1641998,TOR,trey jemison iii,NYK,-8.6,-0.1,82.0,Changed Teams
+Alijah Martin,1642918,TOR,alijah martin,TOR,-4.3,-0.1,146.0,Stayed
+Jamison Battle,1642419,TOR,jamison battle,TOR,-2.6,-0.1,517.0,Stayed
+Taylor Funk,1641917,UTA,taylor funk,,,,,New Player
+Jonas Aidoo,1643265,UTA,jonas aidoo,,,,,New Player
+Tamar Bates,1642926,UTA,tamar bates,,,,,New Player
+Harrison Ingram,1631127,UTA,harrison ingram,SAS,2.3,0.0,26.0,Changed Teams
+Kyle Filipowski,1642271,UTA,kyle filipowski,UTA,-1.1,0.4,1801.0,Stayed
+Keyonte George,1641718,UTA,keyonte george,UTA,0.9,1.3,1786.0,Stayed
+Josh Green,1630182,UTA,josh green,CHO,-0.7,0.3,908.0,Changed Teams
+Isaiah Collier,1642268,UTA,isaiah collier,UTA,-2.4,-0.2,1517.0,Stayed
+Svi Mykhailiuk,1629004,UTA,svi mykhailiuk,UTA,-1.7,0.1,1156.0,Stayed
+Jaxson Hayes,1629637,UTA,jaxson hayes,LAL,1.2,1.0,1207.0,Changed Teams
+Trey Alexander,1641725,UTA,trey alexander,NOP,-1.6,0.0,111.0,Changed Teams
+Ace Bailey,1642846,UTA,ace bailey,UTA,-4.4,-1.2,1988.0,Stayed
+Jaren Jackson Jr.,1628991,UTA,jaren jackson jr.,UTA,-0.6,0.5,1454.0,Stayed
+Josh Okogie,1629006,UTA,josh okogie,HOU,-1.2,0.3,1354.0,Changed Teams
+Darryn Peterson,1643408,UTA,darryn peterson,,,,,New Player
+Lauri Markkanen,1628374,UTA,lauri markkanen,UTA,2.6,1.6,1443.0,Stayed
+Blake Hinson,1642396,UTA,blake hinson,UTA,-0.6,0.1,285.0,Stayed
+Brice Sensabaugh,1641729,UTA,brice sensabaugh,UTA,-2.6,-0.3,1762.0,Stayed
+Jusuf Nurkić,203994,UTA,jusuf nurkic,UTA,1.1,0.9,1083.0,Stayed
+Mo Bamba,1628964,UTA,mo bamba,UTA,-8.0,-0.1,44.0,Stayed
+Jahmai Mashack,1642942,MEM,jahmai mashack,MEM,-7.0,-0.8,673.0,Stayed
+Zach Cleveland,1643617,MEM,zach cleveland,,,,,New Player
+Carson Cooper,1643721,MEM,carson cooper,,,,,New Player
+Jaylen Wells,1642377,MEM,jaylen wells,MEM,-3.1,-0.5,1821.0,Stayed
+Scotty Pippen Jr.,1630590,MEM,scotty pippen jr.,MEM,-2.8,0.0,212.0,Stayed
+Ty Jerome,1629660,MEM,ty jerome,MEM,7.7,0.8,339.0,Stayed
+Jerami Grant,203924,MEM,jerami grant,POR,0.0,0.9,1695.0,Changed Teams
+Walter Clayton Jr.,1642383,MEM,walter clayton jr.,MEM,-4.3,-0.8,1410.0,Stayed
+Micah Peavy,1642877,MEM,micah peavy,NOP,-5.2,-0.7,913.0,Changed Teams
+Javon Small,1642914,MEM,javon small,MEM,1.0,0.6,830.0,Stayed
+Zach Edey,1641744,MEM,zach edey,MEM,0.5,0.2,284.0,Stayed
+Kris Murray,1631200,MEM,kris murray,POR,-1.5,0.2,1333.0,Changed Teams
+Olivier-Maxence Prosper,1641765,MEM,olivier-maxence prosper,MEM,-0.1,0.5,984.0,Stayed
+Taylor Hendricks,1641707,MEM,taylor hendricks,MEM,-2.4,-0.1,1118.0,Stayed
+Cedric Coward,1642907,MEM,cedric coward,MEM,-0.2,0.7,1598.0,Stayed
+Cam Spencer,1642285,MEM,cam spencer,MEM,2.2,1.8,1714.0,Stayed
+Cameron Boozer,1643409,MEM,cameron boozer,,,,,New Player
+Isaiah Stewart,1630191,MEM,isaiah stewart,DET,0.0,0.7,1317.0,Changed Teams
+Karim Lopez,1643510,MEM,karim lopez,,,,,New Player
+Quinten Post,1642366,MEM,quinten post,GSW,-1.1,0.3,1159.0,Changed Teams
+GG Jackson,1641713,MEM,gg jackson,MEM,-1.2,0.2,1178.0,Stayed
+Bilal Coulibaly,1641731,WAS,bilal coulibaly,WAS,-2.1,-0.1,1468.0,Stayed
+Tristan Vukcevic,1641774,WAS,tristan vukcevic,WAS,0.0,0.3,671.0,Stayed
+Tre Mann,1630544,WAS,tre mann,CHO,-5.3,-0.5,669.0,Changed Teams
+Trevor Keels,1631211,WAS,trevor keels,MIA,-14.5,0.0,15.0,Changed Teams
+Trae Young,1629027,WAS,trae young,WAS,2.8,0.5,384.0,Stayed
+AJ Dybantsa,1643407,WAS,aj dybantsa,,,,,New Player
+Jamir Watkins,1642364,WAS,jamir watkins,WAS,-3.3,-0.3,1032.0,Stayed
+Bub Carrington,1642267,WAS,bub carrington,WAS,-4.7,-1.6,2271.0,Stayed
+Deandre Ayton,1629028,WAS,deandre ayton,LAL,-0.9,0.6,1958.0,Changed Teams
+Chris Livingston,1641753,WAS,chris livingston,CLE,-2.7,0.0,17.0,Changed Teams
+Justin Champagnie,1630551,WAS,justin champagnie,WAS,-0.4,0.6,1377.0,Stayed
+Tre Johnson,1642848,WAS,tre johnson,WAS,-5.0,-1.1,1443.0,Stayed
+Anthony Gill,1630264,WAS,anthony gill,WAS,-2.6,-0.2,951.0,Stayed
+Kyshawn George,1642273,WAS,kyshawn george,WAS,-1.2,0.3,1391.0,Stayed
+Alex Sarr,1642259,WAS,alex sarr,WAS,0.7,0.9,1305.0,Stayed
+Khris Middleton,203114,WAS,khris middleton,DAL,-4.4,-0.9,1439.0,Changed Teams
+Anthony Davis,203076,WAS,anthony davis,DAL,2.4,0.7,626.0,Changed Teams
+Reece Beekman,1641736,WAS,reece beekman,,,,,New Player
+Will Riley,1642860,WAS,will riley,WAS,-4.5,-1.0,1633.0,Stayed
+Alondes Williams,1631214,WAS,alondes williams,WAS,1.1,0.1,101.0,Stayed
+Felix Okpara,1643590,WAS,felix okpara,,,,,New Player
+Ugonna Onyenso,1642391,DET,ugonna onyenso,,,,,New Player
+John Ukomadu,1642578,DET,john ukomadu,,,,,New Player
+Brice Williams,1642924,DET,brice williams,,,,,New Player
+Jalen Duren,1631105,DET,jalen duren,DET,5.0,3.5,1976.0,Stayed
+Cade Cunningham,1630595,DET,cade cunningham,DET,6.3,4.6,2172.0,Stayed
+Isaac Jones,1642403,DET,isaac jones,DET,-8.1,-0.1,36.0,Stayed
+Ronald Holland II,1641842,DET,ronald holland ii,DET,-2.0,0.0,1551.0,Stayed
+Paul Reed,1630194,DET,paul reed,DET,5.3,1.6,901.0,Stayed
+Chaz Lanier,1642404,DET,chaz lanier,DET,-5.1,-0.2,262.0,Stayed
+Ausar Thompson,1641709,DET,ausar thompson,DET,3.1,2.4,1896.0,Stayed
+Taurean Prince,1627752,DET,taurean prince,MIL,-3.1,-0.2,611.0,Changed Teams
+Elijah Harkless,1641989,DET,elijah harkless,UTA,-5.6,-0.5,545.0,Changed Teams
+Isaiah Joe,1630198,DET,isaiah joe,OKC,2.5,1.7,1507.0,Changed Teams
+John Collins,1628381,DET,john collins,LAC,-0.5,0.7,1872.0,Changed Teams
+Ebuka Okorie,1643536,DET,ebuka okorie,,,,,New Player
+Daniss Jenkins,1642450,DET,daniss jenkins,DET,-0.7,0.5,1455.0,Stayed
+Kevin Huerter,1628989,DET,kevin huerter,DET,-0.6,0.6,1549.0,Stayed
+Javonte Green,1629750,DET,javonte green,DET,2.1,1.5,1446.0,Stayed
+Tolu Smith,1642449,DET,tolu smith,DET,0.0,0.1,137.0,Stayed
+Duncan Robinson,1629130,DET,duncan robinson,DET,0.8,1.5,2113.0,Stayed
+Jarkel Joiner,1641935,CHO,jarkel joiner,,,,,New Player
+Michael Ajayi,1642369,CHO,michael ajayi,,,,,New Player
+Kylan Boswell,1643573,CHO,kylan boswell,,,,,New Player
+Wyatt Fricks,1643769,CHO,wyatt fricks,,,,,New Player
+Royce O'Neale,1626220,CHO,royce o'neale,PHO,0.7,1.5,2213.0,Changed Teams
+Grant Williams,1629684,CHO,grant williams,CHO,1.6,0.7,711.0,Stayed
+Coby White,1629632,CHO,coby white,CHO,-1.3,0.2,1249.0,Stayed
+Sion James,1642883,CHO,sion james,CHO,-2.0,0.0,1843.0,Stayed
+Christian Anderson,1643515,CHO,christian anderson,,,,,New Player
+Kon Knueppel,1642851,CHO,kon knueppel,CHO,2.8,3.1,2551.0,Stayed
+Grayson Allen,1628960,CHO,grayson allen,PHO,2.1,1.5,1467.0,Changed Teams
+Naz Reid,1629675,CHO,naz reid,MIN,0.9,1.5,2007.0,Changed Teams
+Ryan Kalkbrenner,1641750,CHO,ryan kalkbrenner,CHO,1.8,1.4,1479.0,Stayed
+Moussa Diabaté,1631217,CHO,moussa diabate,CHO,1.7,1.8,1899.0,Stayed
+PJ Hall,1641790,CHO,pj hall,CHO,-2.3,0.0,214.0,Stayed
+Dennis Schröder,203471,CHO,dennis schroder,CLE,-2.2,-0.1,1697.0,Changed Teams
+Pat Connaughton,1626192,CHO,pat connaughton,CHO,0.1,0.2,297.0,Stayed
+Hannes Steinbach,1643419,CHO,hannes steinbach,,,,,New Player
+Brandon Miller,1641706,CHO,brandon miller,CHO,1.6,1.8,1968.0,Stayed
+Tidjane Salaün,1642275,CHO,tidjane salaun,CHO,-0.8,0.2,575.0,Stayed
+Liam McNeeley,1642862,CHO,liam mcneeley,CHO,-1.3,0.1,368.0,Stayed

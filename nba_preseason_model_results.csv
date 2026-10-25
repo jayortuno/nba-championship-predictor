@@ -1,0 +1,10 @@
+Season,Predicted,Actual,Champion_Rank,Correct
+2017-18,San Antonio Spurs,Golden State Warriors,2,False
+2018-19,Houston Rockets,Toronto Raptors,2,False
+2019-20,Milwaukee Bucks,Los Angeles Lakers,22,False
+2020-21,Milwaukee Bucks,Milwaukee Bucks,1,True
+2021-22,Utah Jazz,Golden State Warriors,23,False
+2022-23,Phoenix Suns,Denver Nuggets,6,False
+2023-24,Minnesota Timberwolves,Boston Celtics,15,False
+2024-25,Oklahoma City Thunder,Oklahoma City Thunder,1,True
+2025-26,Oklahoma City Thunder,New York Knicks,13,False
